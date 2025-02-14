@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: lightyellow;
+}
+
+div.fondoverde {
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+
+div.fondonaranja {
+    background-color: orange;
+}
+
+footer.Final {
+    background-color: blue;
+    text-align: center;
+
+}
+
+span{
+   
+    color: purple;
+  
+}
